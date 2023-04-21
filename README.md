@@ -4,7 +4,7 @@
 
 > Create, edit and convert to and from popular AI character formats easily
 
-### [Use AI Character Editor online](https://zoltanai.github.io/character-editor/)
+### [Use AI Character Editor online](https://tfwol.github.io/character-editor/)
 
 ## Features
 - Simple and easy to use interface
